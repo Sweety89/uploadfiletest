@@ -17,4 +17,8 @@ function fibonacci(n:number):void
 {
     
 }
+function display():void
+{
+    
+}
 console.log(fiboseries(5))
