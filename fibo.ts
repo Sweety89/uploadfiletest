@@ -13,4 +13,8 @@ function fiboseries(n:number):void
         b=c;
     }
 }
+function fibonacci(n:number):void
+{
+    
+}
 console.log(fiboseries(5))
